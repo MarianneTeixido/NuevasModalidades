@@ -3,7 +3,7 @@
 
 ## Música y código.
 
-![portada](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/i01.png)
+![portada](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/setinterval.jpg)
 
 1. [Notas de Ausencia](https://github.com/MarianneTeixido/notasdeausencia.git)
 Investigación socioartística en la red. 
