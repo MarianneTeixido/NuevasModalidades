@@ -1,20 +1,21 @@
 # Coloquio Salvador Contreras 
 ## Artes Sonoras y Creación Musical en México: Siglo XXI
 
-## Nuevas Modalidades
+## Música y código.
 
-Reflexiones entorno al uso de interfaces digitales como medio para el análisis social desde una perspectiva sonora y artística.
+![portada](https://github.com/MarianneTeixido/notasdeausencia/blob/master/img/i01.png)
 
-1. Notas de Ausencia
+1. [Notas de Ausencia](https://github.com/MarianneTeixido/notasdeausencia.git)
 Investigación socioartística en la red. 
 Hackfeminismos y narrativa de denuncia.
 
-2. Live Coding
-Textos sonoros como síntesis dialéctica.
+2. [Live Coding](https://www.youtube.com/channel/UCXoKGzDxwbPbP7QXY7HHr-w/videos)
+[Pixelscapes](https://www.youtube.com/watch?v=UnEGoiJd6NU)
+[Distancias](https://www.youtube.com/watch?v=q3Eq7Q0PJhM)
 
-3. setInterval
+3. [setInterval](https://www.youtube.com/watch?v=1rTPafN-EBQ)
 Concierto Virtual y posibilidades inmersivas híbridas. 
 
-4. PiranhaLab
+4. [PiranhaLab](https://www.youtube.com/channel/UCbwQjFm59lWguzQJ1Gltszw/videos)
 
-Conclusiones
+
